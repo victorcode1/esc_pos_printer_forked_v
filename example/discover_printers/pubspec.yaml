@@ -14,7 +14,7 @@ dependencies:
   esc_pos_utils: ^1.0.0
   flutter:
     sdk: flutter
-  image: ^4.0.16
+  image: ^3.0.2
   intl: 0.18.1
   ping_discover_network_forked: 0.0.1
   path_provider: ^1.6.5

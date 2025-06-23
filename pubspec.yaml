@@ -15,7 +15,7 @@ dependencies:
     git:
       url: https://github.com/Bilonik/flutter_esc_pos_utils
       ref: main
-  intl: 0.19.0
+  intl: 0.20.2
   ping_discover_network_forked: 0.0.1
 
 
